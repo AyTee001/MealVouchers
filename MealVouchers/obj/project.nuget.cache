@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRjY1+z76XtUX2mQSbvo/33A14Vs2jYxn7SUV3y8gLyxyQy849HmW3+V1cmyd8pAWbHEQPWjIU/KkoNwWpFC2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcu\\Source\\Repos\\Meal vouchers\\MealVouchers\\MealVouchers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

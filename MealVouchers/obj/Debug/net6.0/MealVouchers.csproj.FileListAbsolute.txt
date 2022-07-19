@@ -1,0 +1,12 @@
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\bin\Debug\net6.0\MealVouchers.deps.json
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\bin\Debug\net6.0\MealVouchers.dll
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\bin\Debug\net6.0\MealVouchers.pdb
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.AssemblyInfo.cs
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.dll
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\refint\MealVouchers.dll
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\MealVouchers.pdb
+C:\Users\marcu\source\repos\MealVouchers\MealVouchers\obj\Debug\net6.0\ref\MealVouchers.dll

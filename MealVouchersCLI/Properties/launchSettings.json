@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MealVouchersCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\MealVouchers.Test\r\nEssensmarken_??.xlsx\r\n..\\..\\..\\..\\MealVouchers.Test\\result.csv\r\nMärz"
+    }
+  }
+}
