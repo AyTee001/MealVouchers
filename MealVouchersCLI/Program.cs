@@ -50,16 +50,13 @@ class Program
             }
         }
 
-//        var stringWriter = new StringWriter();
         using (var writer = new StreamWriter(resultFilePath))
         {
             foreach (ExtractedData data in allEmployeeData)
             {
                 data.PrintExtractedData(writer);
-//                data.PrintExtractedData(stringWriter);
             }
         }
-        //        Console.WriteLine(stringWriter.ToString());
         Console.WriteLine($"Successfully wrote the results for {matchingFiles.Count} files to {resultFilePath}");
         return 0;
     }
